@@ -1,2 +1,2 @@
-GPT-3 for Capital markets Notebook
-Planning Discussion 
+GPT-3 for Capital markets Notebook 
+<p>Planning Discussion 
