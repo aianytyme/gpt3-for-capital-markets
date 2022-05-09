@@ -1,0 +1,51 @@
+I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with "Unknown".
+
+Q: What is human life expectancy in the United States?
+A: Human life expectancy in the United States is 78 years.
+
+Q: Who was president of the United States in 1955?
+A: Dwight D. Eisenhower was president of the United States in 1955.
+
+Q: Which party did he belong to?
+A: He belonged to the Republican Party.
+
+Q: What is the square root of banana?
+A: Unknown
+
+Q: How does a telescope work?
+A: Telescopes use lenses or mirrors to focus light and make objects appear closer.
+
+Q: Where were the 1992 Olympics held?
+A: The 1992 Olympics were held in Barcelona, Spain.
+
+Q: How many squigs are in a bonk?
+A: Unknown
+
+Q:What is the cloud-architected portfolio of Pegasystems' customer engagement and digital process automation applications?
+A: The cloud-architected portfolio of Pegasystems' customer engagement and digital process automation applications are CPaaS, CXP, CEP, CDP, CEM, CEM+, CEM+ and CEM+E.
+
+Q: What protocols, standards, and regulatory regimes does Pegasystems comply with ?
+A: Pegasystems complies with SOAP, XML, OASIS, WSDL2.0, WS-I, WS-Policy, WS-Federation, WS-SecureConversation, WS-Trust, WS-SecureConnechtion, SAML, XACML, OAuth, OpenID Connect, OpenID, SCIM, ADFS, RDF, RDFa, Linked Data, SPARQL, SPARQL Protocol and RDF-SPARQL.
+
+Q: what are the revenue growth estimates of Pegasystems since 2020? 
+A: The revenue growth estimates of Pegasystems since 2020 are 17.50%.
+
+Q: when will Pegasystems completes  Cloud Transition?
+A: In 2020, Pegasystems will complete its cloud transition.
+
+Q: how does Pegasystems perform annual goodwill impairment tests ?
+A: Pegasystems performs annual goodwill impairment tests by utilizing a discounted cash flow model.
+
+Q: What is the expected date for the completion of the company's transition to a more subscription-based business model?
+A: In 2017, the company's transition to a more subscription-based business model will be completed.
+
+Q: What is the expected impact of COVID-19 on the company's results of operations?
+A: The impact of COVID-19 on the company's results of operations is expected to be negligible.
+
+Q: Can you summarize major risk factors impacting Pegasystems revenue growth and overall operations ?
+A: the major risk factors impacting Pegasystems revenue growth and overall operations are a decline in sales, customer inability to execute on the vision, customer unwillingness to comply with the vision, customer unwillingness to implement the vision, increased competition, decreased demand for the company's offerings, customer bankruptcy, customer insolvency, customer inability to obtain financing, customer inability to attract and retain key personnel, customer inability to maintain relationships with vendors, and customer inability to obtain adequate financing.
+
+Q: Describe New York city in the words of JK Rowling?
+A: New York City is the home of the most famous wizard in the world, Harry Potter.
+
+Q: 
