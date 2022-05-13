@@ -1,0 +1,11 @@
+Write a short essay on key risks that will impact financial performance of MicroStrategy, Inc ?
+
+MicroStrategy, Inc. is a publicly traded company that provides enterprise software platforms and services. The Company's enterprise software platforms enable customers to analyze internal and external data to make better business decisions. MicroStrategy's services include consulting, training, support, and managed services.
+
+The key risks that will impact the financial performance of MicroStrategy, Inc. are:
+
+1) Dependence on a small number of large customers: A significant portion of the Company's revenue is derived from a small number of large customers. If one or more of these customers were to reduce or discontinue their use of MicroStrategy's products or services, the Company's revenue and financial results would be materially adversely impacted.
+
+2) Fluctuations in demand for the Company's products and services: The demand for the Company's products and services can be affected by macroeconomic conditions as well as factors specific to particular industries or verticals that the Company serves. In recent years, there have been significant fluctuations in demand for enterprise software due to economic conditions worldwide. If global economic conditions deteriorate or if industry-specific conditions affecting particular verticals served by the Company worsen, demand for MicroStrategy's products and services could decline significantly which would adversely impact its revenue and financial results.
+
+3) Competition: The market for enterprise software is highly competitive with numerous competitors offering similar solutions at lower prices than MicroStrategy charges for its products. In order to compete effectively against these competitors, the Company must continually invest in research & development to innovate its product offerings as well as sales & marketing efforts to generate awareness & interest among potential customers which puts pressure on margins & profitability levels
