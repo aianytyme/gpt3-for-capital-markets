@@ -20,8 +20,7 @@ half year to a year has been so tumultuous is that almost all legacy cross-asset
 positioning and performance has been tied to that dynamic where it was all about Goldilocks
 economic environment, not too hot, not too cold with growth and inflation. And that inflation
 skepticism or cynicism then allowed for outperformance of duration sensitive assets and stuff
-that's sensitive to interest rates.
-And investors parked in long duration assets. They parked in stuff from the equity side that
+that's sensitive to interest rates. And investors parked in long duration assets. They parked in stuff from the equity side that
 could grow profits in earnings without a hot cycle. And in you know, the treasuries or rates side
 that meant long treasuries, bull flattening and curves, negative real yields. So, which is a very
 highly speculative environment which meant persistently low volatility and long gamma, short
@@ -33,14 +32,4 @@ exceptionalism trade, and that shift over the past, you know two years frankly r
 COVID double whammy of the monetary policy and the fiscal policy response, and then the exit
 from that period, really supercharged and unanchored inflation and that's where we are right
 now.
-Erik: You mentioned that inflation is the driver. I know that as you said, you've been talking to
-us about inflation for years where everybody else seemed to be in denial. Most of the
-institutional guys I talked to say they believe the Fed that it really is transitory and they don't
-think that we have a new secular inflation. How do you feel about that? Do you think that there
-is really evidence that it's not secular? Seems to me like all the signs are there. 
-Charlie: Yeah, I mean look, I think that the Fed is doing everything it can to try and convince us
-that this is transitory. And you know, we've had a couple of good months in terms of inflation.
-And you know, they're gonna point to that as evidence that their policies are working and they're
-gonna be able to get back on track with regards to their 2% target. But at the end of the day if we
-look at what's going on globally in terms of inflationary pressures across asset classes from oil
-to metals and foodstuffs or even just wages around the world which have been rising for a while now but really accelerated over 2017 into 2018 versus where central banks are set right now with regards to policy rates relative to those trends then there's no way out other than higher interest rates because these economies need more monetary accommodation not less. So ultimately what happens when central banks do raise interest rates? Well then all this stuff unwinds because investors were so crowded into these long duration assets like equities or bonds or curve flatteners like negative real yields stuff like that which means high gamma short skew portfolios which means low volatility strategies right? So when those things unwind it creates massive volatility spikes right? It creates big moves in markets
+Erik: You mentioned that inflation is the driver. What is your advice for individual investors in light on inflation ?
